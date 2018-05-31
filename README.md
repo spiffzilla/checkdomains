@@ -1,2 +1,2 @@
 # checkdomains
-CHeck if domains (in a textfile) exists
+Check if domains (in a textfile) exists
